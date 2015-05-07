@@ -53,17 +53,11 @@ static MyFP *sharedPlugin;
             [[menuItem submenu] addItem:actionMenuItem];
             
         }
-        
-//        [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(notificationLog:) name:nil object:nil];
-
     }
     return self;
 }
 
-///   监听xCode 的通知
-//}
 
-// Sample Action, for menu item:
 -(void)doMenuAction
 {
 
