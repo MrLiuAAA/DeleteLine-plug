@@ -12,6 +12,7 @@
 		642A2EC71AFAF2F10016C0B0 /* MyFP.xcscheme in Resources */ = {isa = PBXBuildFile; fileRef = 642A2EC61AFAF2F10016C0B0 /* MyFP.xcscheme */; };
 		642A2ECA1AFAF2F10016C0B0 /* MyFP.m in Sources */ = {isa = PBXBuildFile; fileRef = 642A2EC91AFAF2F10016C0B0 /* MyFP.m */; };
 		642A2ED31AFB09690016C0B0 /* JTTKeyboardEventSender.m in Sources */ = {isa = PBXBuildFile; fileRef = 642A2ED21AFB09690016C0B0 /* JTTKeyboardEventSender.m */; };
+		64E3EF6F1B01990E0068A5BF /* deletePlug@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 64E3EF6E1B01990E0068A5BF /* deletePlug@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		642A2EC91AFAF2F10016C0B0 /* MyFP.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyFP.m; sourceTree = "<group>"; };
 		642A2ED11AFB09690016C0B0 /* JTTKeyboardEventSender.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTTKeyboardEventSender.h; sourceTree = "<group>"; };
 		642A2ED21AFB09690016C0B0 /* JTTKeyboardEventSender.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JTTKeyboardEventSender.m; sourceTree = "<group>"; };
+		64E3EF6E1B01990E0068A5BF /* deletePlug@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "deletePlug@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				642A2EC51AFAF2F10016C0B0 /* Info.plist */,
+				64E3EF6E1B01990E0068A5BF /* deletePlug@2x.png */,
 				642A2EC61AFAF2F10016C0B0 /* MyFP.xcscheme */,
 			);
 			name = "Supporting Files";
@@ -150,6 +153,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64E3EF6F1B01990E0068A5BF /* deletePlug@2x.png in Resources */,
 				642A2EC71AFAF2F10016C0B0 /* MyFP.xcscheme in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -287,6 +291,7 @@
 				642A2ECF1AFAF2F10016C0B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
